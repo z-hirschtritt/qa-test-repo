@@ -1,7 +1,5 @@
 # qa-test-repo
 
-diff
-also diff
-very diff
-super diff
-very very diff
+here's a change
+new-change
+another 
