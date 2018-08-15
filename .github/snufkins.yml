@@ -1,4 +1,0 @@
-  _extends: .github
-  jiraTicketRegEx: '[A-Z]{2,10}-\d+'
-  slackIntegration: 
-    enableNotifications: true
